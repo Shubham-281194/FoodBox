@@ -1,0 +1,62 @@
+.kitchen{
+    margin:30px;
+    
+    
+    
+}
+    body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%; 
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.8), rgba(185, 177, 173, 0.5) ),
+    url('https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); 
+    background-size: cover;  
+    background-attachment: fixed; 
+    color: rgb(255, 255, 255);
+    background-color: #ad9c8ef0;
+    
+    
+    }
+    
+
+    
+    .card{
+    background: linear-gradient(to right, #ca906fb2, #393736d3);
+    }
+    
+    .cardimage{
+    height: 100px;
+    width: 100px;
+    }
+    
+    
+
+    a{
+        text-decoration: none;
+        color:white;
+    }
+
+    a:hover{
+        color:black;
+        text-decoration: none;
+    }
+
+    h1{
+        padding-top:100px;
+        font-weight: bold;
+        font-size: 30px;
+
+
+    }
+
+    a > h1{
+        padding:0;
+        margin:0px;
+        
+    }
+
+  
+
+   
+    

@@ -1,0 +1,33 @@
+body{
+    /* background: rgb(225, 152, 95); */
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.8), rgba(255, 255, 255, 0.107) ),
+    url('https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); 
+    background-size: cover;  
+    background-attachment: fixed;
+    
+    
+
+}
+
+.full-width{
+    width: 100%;
+
+}
+
+
+img { 
+
+    border-top: 80px;
+    border-top: 80px;
+    border-bottom: 80px;
+    border-bottom: 80px;
+   
+}
+.img-fluid{
+    min-height:min-content;
+    min-height:min-content;
+    max-height: max-content;
+    box-shadow:  12px 12px 22px rgb(233, 7, 7);
+    text-align: center;
+}
+
